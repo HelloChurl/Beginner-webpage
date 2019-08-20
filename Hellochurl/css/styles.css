@@ -1,0 +1,73 @@
+body {
+  background-color: #DAE0E6;
+  margin:0 0 0 0;
+}
+
+.introduction{
+  width:25%;
+  background-color: #FFFFFF;
+  border-solid: 2px;
+  border-radius:5%;
+  left:10px;
+  position: absolute;
+}
+.navigation-menu{
+  background-color: #FFFFFF;
+  margin: 0 10px;
+}
+
+.striking {
+  background-color: #F8DF9D;
+}
+
+h1 {
+  font-family:initial;
+  border: solid 1px;
+  margin: 0;
+  height:36px;
+  }
+
+.name {
+  background-color: #FF9662;
+  text-decoration: underline;
+}
+
+.EduBox {
+  background-color: #F8DF9D;
+  width: 50%;
+  border: solid 2px;
+  text-align: center;
+  margin-left: 40px;
+  margin-bottom:10px;
+  position:absolute;
+  top: 100px;
+  right:100px;
+
+  }
+
+h2{
+  width: 50%;
+
+}
+
+hr {
+  background-color:black;
+  margin: 0;
+}
+
+table, td {
+  border: solid 2px;
+  table-layout: auto;
+}
+.p-title{
+  font-family: Arial;
+}
+
+.name{
+  border: solid 1px;
+}
+
+.skillz-table{
+  position: absolute;
+  bottom: 50px;
+}
