@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>HC</title>
+    <link rel="stylesheet" href="../css-styles/styles.css">
+    <link rel="icon" href="../images/ghostyboi.ico">
+  </head>
+
+  <body>
+
+    <div class="top-container">
+      <img class ="top-cloud" src="../images/cloud.png" alt="cloud-img">
+      <h1>I'm HC.</h1>
+      <p>A SPICY <span class="pro">pro</span>grammer!</p>
+      <img class="bottom-cloud" src="../images/cloud.png" alt="cloud-img">
+      <img src="../images/mountain.png" alt="mountain-img">
+
+    </div>
+
+    <div class="middle-container">
+      <div class="profile">
+        <img src="" alt="">
+        <h2>Hello.</h2>
+        <p>My name is HC and I'm an aspiring web developer. I continue to grow my skills despite the everyday struggle to simply eat cans of beans in movie theaters.</p>
+      </div>
+      <hr>
+      <div class="skills">
+        <h2>My Skills.</h2>
+        <div class="skill-row">
+          <img class="" src="" alt="">
+          <h3>PlayinVidyas</h3>
+          <p>Most of the time you'll find me playing some video game, at this point in time it's Rocket League, and who knows maybe I'll have enough time one day to go pro. No time for fantasies at the moment however.</p>
+          <img src="" alt="">
+        </div>
+        <div class="skill-row">
+          <img class= "dunkin" src="..\images\GOT-EM.gif" alt="ME DUNKIN THEM DONUTS">
+          <h3>Working out!</h3>
+          <p>I've been on a weight losing spree over the last few years, I have several progress markers aand basically, I just keep trying to one up myself. One handed pushups are next!</p>
+          <img src="..\images\bruceleeisagod.gif" alt="">
+        </div>
+      </div>
+      <hr>
+      <div class="contact-me">
+        <h2>Get In Touch</h2>
+        <h3>You can reach me any time, anywhere as long as you are fortunate enough to have a connection to the internet!</h3>
+        <p>Praise the SUN!</p>
+        <img src="../images/sun-of-which-shall-be-praised.jpg" alt="One who praises the Sun">
+        <a class="btn" href="@email.com">CONTACT ME</a>
+      </div>
+    </div>
+
+
+    <div class="bottom-container">
+      <a class="footer-link" href="https://www.linkedin.com/">LinkedIn</a>
+      <a class="footer-link" href="https://twitter.com/">Twitter</a>
+      <a class="footer-link" href="https://www.appbrewery.co/">Website</a>
+      <p>© 2018 HC Productions.</p>
+    </div>
+  </body>
+</html>
