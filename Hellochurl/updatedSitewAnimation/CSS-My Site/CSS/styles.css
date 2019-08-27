@@ -1,0 +1,144 @@
+body {
+  margin: 0;
+  font-family: 'Caveat', cursive;
+  font-family: 'Sacramento', cursive;
+  font-family: 'Philosopher', sans-serif;
+}
+
+.nav-bar {
+  text-align: center;
+  background-color: #2380BB;
+  display: inline;
+  margin-left: 100px;
+  position: fixed;
+  z-index: 1;
+}
+
+.nav {
+  color: black;
+}
+
+.intro-header {
+  font-family: 'Ultra', serif;
+  font-size: 45px;
+  margin: 50px auto 0 auto;
+  text-align: center;
+  font-weight: 100;
+  line-height: 200%;
+  color: black;
+}
+
+.sub-header-p {
+  font-size: 2.0rem;
+  margin-bottom: 50px;
+  text-align: center;
+  font-family: 'Cormorant Garamond', serif;
+  color: black;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h2 {
+  color: #66BFBF;
+  font-weight: normal;
+  margin: 50px auto 50px auto;
+  text-align: center;
+}
+
+.skill-row {
+  display: relative;
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.skills-text {
+  margin: 50px auto 50px auto;
+  text-align: center;
+  text-align: left;
+}
+
+.skills-img-1 {
+  margin-left: 20px;
+  float: right;
+  width: 50%;
+}
+
+.skills-img-2 {
+  margin-right: 20px;
+  float: left;
+  width: 50%;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+span {
+  text-decoration: underline;
+}
+
+.profile-pic {
+  display: block;
+  margin: 50px auto 50px auto;
+  margin: 0 auto 0 auto;
+}
+
+.profile {
+  display: relative;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.mountain {
+  display: block;
+  width: 50%;
+  margin: 0 auto 0 auto;
+}
+
+.cloud-1 {
+  left: 75%;
+  top: 50px;
+  position: absolute;
+}
+
+.cloud-2 {
+  right: 75%;
+  bottom: 300px;
+  position: absolute;
+}
+
+.top-container {
+  background-color: #5FE3FF;
+  padding-top: 100px;
+  position: relative;
+  -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
+  -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
+  animation-name: example;
+  animation-duration: 15s;
+  animation-iteration-count: infinite;
+}
+
+/* Standard syntax */
+@keyframes example {
+  from {background-color: #5FE3FF;}
+  to {background-color: yellow;}
+}
+
+.middle-container {
+
+}
+
+.contact-me {
+  text-align: center;
+}
+
+.bottom-container {
+  text-align: center;
+}
